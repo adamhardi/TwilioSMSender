@@ -59,5 +59,5 @@ it will be
 **rotateapi** => mode: 'send' or 'sleep' | API will rotate every 'send' or 'sleep'<br>
 
 # Credit
-[+] Twilio <br>
+[+] Twilio's REST APIs <br>
 [+] CLImate <br>

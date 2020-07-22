@@ -57,3 +57,7 @@ it will be
 **send** => how much list will be send<br>
 **sleep** => long sleep in second every list will be send<br>
 **rotateapi** => mode: 'send' or 'sleep' | API will rotate every 'send' or 'sleep'<br>
+
+# Credit
+[+] Twilio <br>
+[+] CLImate <br>
